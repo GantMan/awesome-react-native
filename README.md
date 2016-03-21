@@ -515,6 +515,7 @@ Useful React Native tooling.
 
 Get a head start on development with an existing seed.
 
+- [react-native-base](https://facebook.github.io/react-native/showcase.html) - Opinionated Android & iOS (optional XDE), ES2015, Redux, Sagas, Network Lib
 - [react-native-webpack-starter-kit ★391](https://github.com/jhabdas/react-native-webpack-starter-kit)
 - [react-native-babel ★229](https://github.com/roman01la/react-native-babel)
 - [react-native-es6-reflux ★124](https://github.com/filp/react-native-es6-reflux)
